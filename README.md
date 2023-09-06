@@ -24,7 +24,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/restaurant-app.git
+   git clone https://github.com/alifshabir10/restaurant-app.git
    ```
 
 2. Navigate to the project directory:
@@ -67,4 +67,4 @@ If you'd like to contribute to this project, please follow these steps:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
-Pastikan untuk mengganti `https://github.com/your-username/restaurant-app.git` dengan URL repositori GitHub Anda sendiri. Ini adalah panduan umum yang dapat Anda modifikasi sesuai dengan kebutuhan Anda.
+Pastikan untuk mengganti `https://github.com/alifshabir10/restaurant-app.git` dengan URL repositori GitHub Anda sendiri. Ini adalah panduan umum yang dapat Anda modifikasi sesuai dengan kebutuhan Anda.

@@ -35,7 +35,6 @@ function RestaurantDetail({ isLoggedin }) {
         console.error("Error fetching data:", error);
       });
   }, [id]);
-  console.log(detailRestaurant);
   return (
     <div className="container">
       <div class="container">

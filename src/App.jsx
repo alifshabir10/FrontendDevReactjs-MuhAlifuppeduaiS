@@ -12,7 +12,6 @@ import NotFound from "./Pages/NotFound";
 
 const App = () => {
   const [isLoggedin, setIsLoggedin] = useState(false);
-  console.log(isLoggedin);
   return (
     <div>
       <Router>
