@@ -60,8 +60,4 @@ If you'd like to contribute to this project, please follow these steps:
 4. Push to your forked repository: `git push origin feature/your-feature-name`
 5. Create a pull request to the main repository.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
+Thanks for supporting this little project 
